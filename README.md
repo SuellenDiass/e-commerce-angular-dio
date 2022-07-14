@@ -1,7 +1,7 @@
 # e-commerce-angular-dio
 Criando um front-end e-commerce utilizando Angular
 
-Nesta aula foi criado um projeto e-commerce de livros, estruturando no back-end e criando a uma API de listagem de produtos.
+Nesta aula foi criado um projeto e-commerce de livros, estruturando no back-end e foi criado a uma API de listagem de produtos.
 Fiz uma API utilizando o sheet.best, mas a versão gratuita as requisições é limitada, então fiz a requisição pela classe.
 
 As auterações foram feitas nos arquivos: product-list.service.ts, product-list.component.ts comentei alguns comandos que não serão utilizados e inserir alguns comentarios
