@@ -1,0 +1,10 @@
+<!-- chamar o componente criado product-item.component.html-->
+<!-- *ngFor percorre o mesmo item varias vezes-->
+
+
+<div class="row">
+    <div class="col md-4" *ngFor="let livro of livros">
+        <app-product-item [livro]= "livro" ></app-product-item>
+
+    </div>
+</div>
