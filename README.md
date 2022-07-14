@@ -11,9 +11,9 @@ No Readme.md dentro da pasta src também tem algumas anotações sobre o projeto
 
 Esta sendo meu primeiro contato a tecnologia e com  os cursos da Dio.me, através dessa plataforma espero que eu consiga me descobrir e qual me enquadro.
 
-# Curso feito na Dio.me com a professora Nathalia Corrêa Senior Software Development Engineer, BTG Pactual
+#### Curso feito na Dio.me com a professora Nathalia Corrêa Senior Software Development Engineer, BTG Pactual
 
-# links úteis
+## links úteis
 
 [sintaxe basica markdown](https://www.dio.me/)
 
